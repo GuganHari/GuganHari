@@ -2,6 +2,8 @@
 
 <!--
 **GuganHari/GuganHari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Agri-Scientist | MBA Leader | Data Scientist Trainee
+I am a dedicated professional at the intersection of Agriculture, Business Leadership, and Data Science. My mission is to transform the agricultural landscape by turning complex field data into strategic business growth.
 
 Here are some ideas to get you started:
 
