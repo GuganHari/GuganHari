@@ -23,5 +23,5 @@ I am a dedicated professional at the intersection of **Agriculture**, **Business
 
 ### **📫 Let's Connect!**
 
-* **LinkedIn:** [Paste your LinkedIn URL here]
-* **Goal:** To lead the next generation of data-driven agricultural entrepreneurship.
+* **LinkedIn:** https://www.linkedin.com/in/gugan-hari-/
+
